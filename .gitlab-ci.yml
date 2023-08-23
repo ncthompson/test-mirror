@@ -1,4 +1,5 @@
 test-builder:
   script:
     - echo "Test"
+    - echo "More stuff"
     - cat README.md
